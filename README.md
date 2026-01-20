@@ -1,7 +1,7 @@
 # react-crash-2025
 This repo holds a job posting site built from TypeScript and React that allows you to create, edit, and delete job postings.
 
-To start, issue an `npm install` to install all the required dependencies for this project.
+To start, issue an `npm install` at the base of the repository to install all the required dependencies for this project.
 
 To run the server:<br>
 `npm run server`
